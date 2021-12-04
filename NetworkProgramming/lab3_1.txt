@@ -1,0 +1,16 @@
+Child loop 
+Child loop 
+Child loop 
+Child loop 
+Child loop
+child.suspend()
+Parent sleeps for 4 seconds 
+child.resume()
+Child loop 
+Child loop 
+Child loop 
+Child loop
+child.terminate() 
+Child loop 
+Parent finished
+

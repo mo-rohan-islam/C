@@ -1,0 +1,13 @@
+[student@gcet ~]$ vi pipes2.c 
+[student@gcet ~]$ cc pipes2.c 
+[student@gcet ~]$ ./a.out 
+Parent reading from pipe 
+Total 24
+-rwxrwxr-x l student student 5563Aug 3 10:39 a.out
+-rw-rw-r—l
+Student student 340 jul 27 10:45 pipe2.c
+-rw-rw-r—l student student 
+Pipes2.c
+-rw-rw-r—l student student 401 34127 10:27 pipe2.c 
+student
+

@@ -1,0 +1,4 @@
+rohan@ubuntu:~$gcc –o lsc.out lab1_1.c 
+rohan@ubuntu:~$./lsc.out
+total 4
+drwxr-xr-x 3 rohan rohan 4096 Sep 10 14:47 Programs
